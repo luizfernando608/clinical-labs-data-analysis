@@ -12,7 +12,7 @@ Validação da qualidade dos dados obtidos
 7. Procurar por duplicatas.
 
 8. Visualizar a distribuição de cada coluna e checar se seguem uma distribuição lógica
-9. Verificar outliers com Z-score e scatter plots
+9. Verificar outliers com Z-score, interquartile e/ou scatter plots
 
 10. Verificar a prevalência de labels e categorias em cada amostra de dados.
 11. Verificar estatísticas básicas para cada coluna do dataset.
